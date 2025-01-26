@@ -1,0 +1,16 @@
+
+Command: shopt -s histappend
+Output:
+
+Exit Code: 0
+----
+Command: pwd
+Output:
+/Users/nitish/Desktop/Hackathon/Project 1/ZeroKnowledgeVoting
+Exit Code: 0
+----
+Command: clear
+Output:
+[3J[H[2J
+Exit Code: 0
+----
