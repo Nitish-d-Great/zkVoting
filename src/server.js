@@ -22,7 +22,7 @@ votingApp.use(bodyParser.urlencoded({ extended: true }));
 
 // Define Candidate Mappings
 const candidateMap = {
-    "Candidate 1 : Nitish ": 0,
+    "Candidate 1 : Nitish": 0,
     "Candidate 2 : Ayush": 1
 };
 
